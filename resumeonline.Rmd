@@ -1,0 +1,75 @@
+---
+title: cv
+author: Phanikumar S tata
+date: '2021-04-20'
+slug: cv
+categories:
+  - R-studio
+tags: []
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: True
+# uncomment this line to produce HTML and PDF in RStudio:
+         
+knit: pagedown::chrome_print
+---
+
+
+# Aside
+
+![Phanikumar S tata](images/personnel_image.JPG){width=60px height=60px}
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-envelope"></i>  [tataphani\@gmail.com](mailto:tataphani@gmail.com){.email}
+-   <i class="fa fa-github"></i> [github.com/Phanikumar](https://github.com/tataphani)
+-   <i class="fa fa-phone"></i> +1 512-621-5484
+
+-   For more information, please contact me via email.
+
+## Skills {#skills}
+
+-   Experienced in statistical analysis, statistical learning models, and optimization methods.
+
+-   Full experience in generation of Table/Listings/figures for Clinical data analysis.
+
+-   Highly skilled in SAS Language, Intermediate R, Starting with Python
+
+## Disclaimer {#disclaimer}
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+# Main
+
+## Phanikumar S tata {#title}
+
+### Currently searching for a R programming position
+
+I am a Clinical programmer using [SAS](www.sas.com) software , have more then 13 years of working experience using SAS to generate tables/listings and graphs . Extensive experience working for CRO'S and Pharmaceutical companies
+
+I made this resume using **pagedown** package. If you are interested in my background and skills, please feel free to contact me.
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### [University of Maryland](www.umes.edu)
+
+M.S. in Information and Computing Sciences
+
+Mary Land , US
+
+2000-2004
+
+Thesis: Commercial Implications of Bass hunting near Coastal areas of Wetlands
+
+### [Osmania University - Department of Business Management](http://www.ou-mba.ac.in)
+
+M.B.A in Market research
+
+AP, India
+
+1998-2000
+
+Thesis: Effect of Micro financing on small scale sectors specially non branded sectors
